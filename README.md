@@ -1,2 +1,3 @@
 # wild-project
-Atelier Git
+
+Comment installer ce projet ?
